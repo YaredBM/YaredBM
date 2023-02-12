@@ -1,5 +1,12 @@
-### Hi there 👋
-
+<div id="header" allign="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+    <h1 allign="center"> Hi,👋 I´m YaredBM</h1>
+    <h3 allign="center"> I am an enthusiastic and dedicated computer science undergraduate student with a passion for learning 
+        and teaching technologies. I have a strong interest in cloud computing and have gained expertise in Azure through 
+        various projects and hands-on experience. My expertise in Python has also helped me in building a strong foundation 
+        in programming. I am highly committed to sharing my knowledge and skills with others.
+    </h3>
+</div>
 <!--
 **YaredBM/YaredBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

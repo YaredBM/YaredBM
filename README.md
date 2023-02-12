@@ -33,10 +33,37 @@
 
 - 🔭 I’m currently working on projects based in Python.
 
-- 🌱 I’m currently learning C++, HTML5, CSS, Javascript, Pentesting
+- 🌱 I’m currently learning C++, HTML5, CSS, Javascript, Pentesting, MySQL
 
-- 💬 Ask me about **Python, Microsoft Azure, Cybersecurity, AI, Machine Learning, Object Detection**
+- 💬 Ask me about **Python, Microsoft Azure, Web Design, Cybersecurity, AI, Machine Learning, Object Detection**
 
 - 📫 How to reach me: **iessebustillo@gmail.com**
 
 - ⚡ Website: [bustilloyared.live](bustilloyared.live)
+
+---
+
+<h2>🔨Languages and Tools</h2>                                 
+<div allign="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"
+    width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure"
+    width="40" height="40"/>&nbsp;
+</div>                
+                          
+                          
+                                 

@@ -26,19 +26,17 @@
     </a>
 </div>
                                  
-                                 
-                                 
-<!--
-**YaredBM/YaredBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<h2>About Me</h2>
 
-Here are some ideas to get you started:
+- ⚡ Participating actively in sessions, workshops and events on [MLSA LATAM](https://www.youtube.com/@microsoftlearnstudentambas5611)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on projects based in Python.
+
+- 🌱 I’m currently learning C++, HTML5, CSS, Javascript, Pentesting
+
+- 💬 Ask me about **Python, Microsoft Azure, Cybersecurity, AI, Machine Learning, Object Detection**
+
+- 📫 How to reach me: **iessebustillo@gmail.com**
+
+- ⚡ Website: [bustilloyared.live](bustilloyared.live)

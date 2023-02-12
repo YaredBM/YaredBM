@@ -27,7 +27,7 @@
 </div>
                                  
 ---
-<h2>About Me</h2>
+<h2>🚀About Me</h2>
 
 - 🏆 Founder of [Azure Cloud Week](https://www.facebook.com/AzureCloudWeekMLSA)
 
@@ -67,7 +67,7 @@
     width="40" height="40"/>&nbsp;
 </div>
 
-<h2>My Stats</h2>
+<h2>📊My Stats</h2>
                           
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YaredBM&theme=dark)](https://git.io/streak-stats)
                           

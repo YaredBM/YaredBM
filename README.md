@@ -29,7 +29,7 @@
 ---
 <h2>About Me</h2>
 
-- ⚡ Participating actively in sessions, workshops and events on [MLSA LATAM](https://www.youtube.com/@microsoftlearnstudentambas5611)
+- 🏃 Participating actively in sessions, workshops and events on [MLSA LATAM](https://www.youtube.com/@microsoftlearnstudentambas5611)
 
 - 🔭 I’m currently working on projects based in Python.
 
@@ -39,7 +39,7 @@
 
 - 📫 How to reach me: **iessebustillo@gmail.com**
 
-- ⚡ Website: [bustilloyared.live](bustilloyared.live)
+- 💻 Website: [bustilloyared.live](bustilloyared.live)
 
 ---
 
@@ -63,7 +63,17 @@
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure"
     width="40" height="40"/>&nbsp;
-</div>                
+</div>
+
+<h2>My Stats</h2>
+                          
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YaredBM&theme=dark)](https://git.io/streak-stats)
+                          
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaredBM&show_icons=true&theme=radical)
+                          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaredBM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                
+ 
+                                    
                           
                           
                                  

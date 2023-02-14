@@ -33,7 +33,7 @@
 
 - 🏃 Participating actively in sessions, workshops and events on [MLSA LATAM](https://www.youtube.com/@microsoftlearnstudentambas5611)
 
-- 🔭 I’m currently working on projects based in Python.
+- 🔭 I’m currently working on projects based in Artificial Intelligence with Python.
 
 - 🌱 I’m currently learning C++, HTML5, CSS, Javascript, Pentesting, MySQL
 

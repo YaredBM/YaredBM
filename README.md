@@ -29,6 +29,8 @@
 ---
 <h2>🚀About Me</h2>
 
+- 🏅 Gold Microsoft Learn Student Ambassador
+
 - 🏆 Founder of [Azure Cloud Week](https://www.facebook.com/AzureCloudWeekMLSA)
 
 - 🏃 Participating actively in sessions, workshops and events on [MLSA LATAM](https://www.youtube.com/@microsoftlearnstudentambas5611)

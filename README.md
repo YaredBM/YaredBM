@@ -47,7 +47,7 @@
 
 - 📫 How to reach me: **iessebustillo@gmail.com**
 
-- 💻 Website: [https://bustilloyared.live](https://bustilloyared.live)
+- 💻 Website: [https://yarediesse.live](https://yarediesse.live)
 
 ---
 

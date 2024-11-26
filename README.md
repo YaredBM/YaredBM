@@ -74,7 +74,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino"
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV"
-    width="40" height="40"/>&nbsp;    
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma"
+    width="40" height="40"/>&nbsp;
+    
 </div>
 
 <h2>📊My Stats</h2>

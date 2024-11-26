@@ -25,7 +25,7 @@
             alt="Microsoft MLSA" />
     </a>
     <a href="https://mvp.microsoft.com/es-ES/MVP/profile/93bcf3eb-3a92-4e56-83e2-2b74f3799f31" target="_blank">
-        <img src="[https://img.shields.io/website?color=gold&down_color=lightgrey&label=Microsoft&logo=microsoft&logoColor=white&style=for-th](https://images.credly.com/size/340x340/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)" />
+        <i class="fa-solid fa-medal"></i>
     </a>
 </div>
                                  

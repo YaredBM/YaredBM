@@ -25,8 +25,7 @@
             alt="Microsoft MLSA" />
     </a>
     <a href="https://mvp.microsoft.com/es-ES/MVP/profile/93bcf3eb-3a92-4e56-83e2-2b74f3799f31" target="_blank">
-        <img src="https://img.shields.io/website?color=gold&down_color=lightgrey&label=Microsoft&logo=microsoft&logoColor=white&style=for-the-badge&up_color=gold&up_message=Student%20Ambassador&url=https%3A%2F%2Fstudentambassadors.microsoft.com%2Fes-ES%2Fstudentambassadors%2Fprofile%2F4bd33019-d470-4058-a2e5-de455170df93"
-            alt="Microsoft MVP" />
+        <img src="[https://img.shields.io/website?color=gold&down_color=lightgrey&label=Microsoft&logo=microsoft&logoColor=white&style=for-th](https://images.credly.com/size/340x340/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)" />
     </a>
 </div>
                                  

@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/website?color=blue&down_color=lightgrey&label=Twitter&logo=twitter&logoColor=blue&style=for-the-badge&up_color=red&up_message=@BustilloIesse&url=https%3A%2F%2Ftwitter.com%2FBustilloIesse" 
             alt="Twitter Badge" />
     </a>
-    <a href="https://bustilloyared.live/" target="_blank">
+    <a href="https://yarediesse.live/" target="_blank">
         <img src="https://img.shields.io/website?color=green&down_color=lightgrey&label=My%20Website&style=for-the-badge&up_color=blue&up_message=bustilloyared.live&url=https%3A%2F%2Fbustilloyared.live"
             alt="Website Badge" />
     </a>

@@ -45,7 +45,7 @@
 
 - 💬 Ask me about **Python, Microsoft Azure, Web Design, Cybersecurity, AI, Machine Learning, Object Detection**
 
-- 📫 How to reach me: **iessebustillo@gmail.com**
+- 📫 How to reach me: **yaredbustillo@proton.me**
 
 - 💻 Website: [https://yarediesse.live](https://yarediesse.live)
 

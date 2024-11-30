@@ -41,7 +41,7 @@
 
 - 🔭 I’m currently working on projects based in Artificial Intelligence with Python.
 
-- 🌱 I’m currently learning C++, HTML5, CSS, Javascript, Pentesting, MySQL
+- 🌱 I’m currently learning Pentesting, MySQL
 
 - 💬 Ask me about **Python, Microsoft Azure, Web Design, Cybersecurity, AI, Machine Learning, Object Detection**
 

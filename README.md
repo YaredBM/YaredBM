@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/website?color=green&down_color=lightgrey&label=My%20Website&style=for-the-badge&up_color=blue&up_message=bustilloyared.live&url=https%3A%2F%2Fbustilloyared.live"
             alt="Website Badge" />
     </a>
-    <a href="https://www.instagram.com/iesse_mb/" target="_blank">
+    <a href="https://www.instagram.com/iesse.mb/" target="_blank">
         <img src="https://img.shields.io/website?color=red&down_color=lightgrey&label=Instagram&logo=Instagram&logoColor=red&style=for-the-badge&up_color=red&up_message=@iess.bm&url=https%3A%2F%2Finstagram.com%2Fiess.bm"
             alt="Instagram Badge" />
     </a>

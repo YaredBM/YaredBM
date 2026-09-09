@@ -6,7 +6,7 @@ Software Engineering student in Potsdam, Germany, building full-stack products a
 - 💼 Software Engineering & Digital Transformation Intern at Cointec (remote)
 - 🏅 Former Microsoft MVP in AI — awarded in 2024, 2025, and 2026
 - 🌍 Spanish (native), English (C1), German (basic)
-- 🔎 Open to paid internships and working-student roles in Berlin, Potsdam, or remote
+- 🔎 Open to internships and working-student opportunities in Berlin, Potsdam, or remote
 
 ## Selected work
 
@@ -26,9 +26,17 @@ Built and deployed a six-language platform with Astro, React, TypeScript, Node.j
 
 Built Flutter/Dart applications with portfolio tracking, analytics, and Agile team delivery.
 
-## Core technologies
+## Technical toolkit
 
-`TypeScript` `React` `Node.js` `Astro` `Python` `PostgreSQL` `Supabase` `Cloudflare Workers` `Docker` `Flutter` `TensorFlow` `PyTorch` `scikit-learn` `Vitest` `Playwright`
+**Full-stack & cloud:** TypeScript · JavaScript · React · Node.js · Astro · HTML/CSS · REST APIs · PostgreSQL · SQL · Supabase · Cloudflare Workers · Microsoft Azure
+
+**AI & data:** Python · TensorFlow · PyTorch · scikit-learn · Machine Learning · Deep Learning · Data Analysis
+
+**Mobile:** Flutter · Dart
+
+**Quality & delivery:** Git · GitHub · Docker · CI/CD · Vitest · Playwright · Agile
+
+**Additional languages:** Java · C++
 
 ## Contact
 
